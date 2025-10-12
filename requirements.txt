@@ -1,0 +1,29 @@
+# No external dependencies required for core functionality
+# SoraMax uses only Python standard library modules:
+# - tkinter (GUI framework - included with Python)
+# - csv (CSV file handling)
+# - random (random number generation)
+# - datetime (date/time handling)
+# - threading (background database loading)
+# - unicodedata (text cleaning)
+# - re (regular expressions)
+# - webbrowser (opening URLs)
+# - os (operating system interface)
+# - sys (system-specific parameters)
+# - traceback (error handling)
+
+# Optional development dependencies for advanced features:
+# Uncomment lines below if you want to add these features
+
+# For standalone executable building:
+# pyinstaller>=5.0.0
+
+# For testing (if adding unit tests):
+# pytest>=7.0.0
+
+# For code formatting (if contributing):
+# black>=22.0.0
+# isort>=5.10.0
+
+# For type checking (if adding type hints):
+# mypy>=0.991
