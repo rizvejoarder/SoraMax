@@ -1,15 +1,27 @@
-# SoraMax - Ultimate Sora Prompt Generator
+# 🎬 SoraMax - Ultimate Sora Prompt Generator
 
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-2.1.0-orange)](https://github.com/rizvejoarder/soramax)
-[![Built by](https://img.shields.io/badge/Built%20by-Rizve%20Joarder-red)](https://www.rizvejoarder.com)
+<div align="center">
 
-🎬 **The most comprehensive Sora video prompt generator with massive databases!**
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-2.1.0-orange?style=for-the-badge)](https://github.com/rizvejoarder/soramax)
+[![Built by](https://img.shields.io/badge/Built%20by-Rizve%20Joarder-red?style=for-the-badge)](https://www.rizvejoarder.com)
 
-Built with ❤️ by [Rizve Joarder](https://www.rizvejoarder.com) - Free and open source for the community!
+### 🚀 The most comprehensive Sora video prompt generator with **2.5+ BILLION** possible combinations!
 
-![SoraMax Screenshot](screenshots/soramax-interface.png)
+**Built with ❤️ by [Rizve Joarder](https://www.rizvejoarder.com)**
+
+*Free and open source for the community!*
+
+---
+
+</div>
+
+## 📸 Screenshot
+
+![SoraMax Interface](screenshots/soramax-interface.png)
+
+> *Beautiful, modern interface with professional-grade prompt generation*
 
 ## 🚀 Features
 
@@ -63,12 +75,16 @@ pip install -r requirements.txt
 
 3. **Run SoraMax:**
 ```bash
+# Original version
 python soramax.py
+
+# OR Modern UI version (Enhanced with beautiful design)
+python soramax_modern.py
 ```
 
 ### Alternative: Direct Download
-1. Download `soramax.py` from the [releases page](https://github.com/rizvejoarder/soramax/releases)
-2. Run: `python soramax.py`
+1. Download `soramax.py` or `soramax_modern.py` from the [releases page](https://github.com/rizvejoarder/soramax/releases)
+2. Run: `python soramax_modern.py` (recommended for better UI/UX)
 
 ## 📖 How to Use
 
